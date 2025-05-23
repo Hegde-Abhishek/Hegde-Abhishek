@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhishek Hegde</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Master's Graduate | JavaScript | React ⚛️ | Node.js 🟢 | PostgreSQL 🐘 | TypeScript 💙</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Master's Graduate </br> JavaScript | React | Node.js | PostgreSQL | TypeScript </h3>
 
 ---
 
