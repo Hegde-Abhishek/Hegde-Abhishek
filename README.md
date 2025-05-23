@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhishek Hegde</h1>
-<h3 align="center">Full-Stack Software Engineer | JavaScript | React ⚛️ | Node.js 🟢 | PostgreSQL 🐘 | TypeScript 💙</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Master's Graduate | JavaScript | React ⚛️ | Node.js 🟢 | PostgreSQL 🐘 | TypeScript 💙</h3>
 
 ---
 
@@ -15,7 +15,7 @@ Recently I was working as a **Software Engineer at Sókn Engineering**, building
 - Improving backend performance and real-time systems
 - Designing sleek, accessible UIs with React & Next.js
 
-👨‍💻 You can explore my portfolio and projects below ⬇️
+👨‍💻 You can explore my portfolio and projects below ⬇
 
 ---
 
@@ -27,7 +27,7 @@ Recently I was working as a **Software Engineer at Sókn Engineering**, building
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - 🧠 **AI-Powered Career Advisor**  
   Built with React, Node.js, Express, Flask, MongoDB, and OpenAI API to provide personalized job recommendations.  
@@ -46,5 +46,5 @@ Recently I was working as a **Software Engineer at Sókn Engineering**, building
 
 ---
 
-### ⚡Let’s build something great together 🚀
+### ⚡Let’s build something great together!!
 
