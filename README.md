@@ -3,7 +3,8 @@
 
 ---
 
-🔭 I’m currently looking for full time opportunities 
+🔭 I’m currently looking for full time opportunities, where I can apply my skills and build new world applications and services.
+Here's a link to my resume: https://shorturl.at/e8Zvm
 
 Recently I was working as a **Software Engineer at Sókn Engineering**, building ultra-low latency trading systems, real-time notification services, and internal analytics platforms using:
 - React.js, Node.js, TypeScript
