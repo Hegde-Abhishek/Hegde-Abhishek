@@ -33,7 +33,7 @@ Recently I was working as a **Software Engineer at Sókn Engineering**, building
 
 - 🧠 **AI-Powered Career Advisor**  
   Built with React, Node.js, Express, Flask, MongoDB, and OpenAI API to provide personalized job recommendations.  
-  → [https://github.com/Hegde-Abhishek/AI-Career-Advisor](#) | [Live Demo](#)
+  → [https://github.com/Hegde-Abhishek/AI-Career-Advisor](#)
 
 - 🏝️ **Resort Management System**  
   Full-stack app for booking and managing resort stays with React frontend and Express/MongoDB backend.  
