@@ -8,16 +8,14 @@
 Here's a link to my resume: https://shorturl.at/e8Zvm
 
 Recently I was working as a **Software Engineer at Sókn Engineering**, building ultra-low latency trading systems, real-time notification services, and internal analytics platforms using:
-- React.js, Node.js, TypeScript
-- WebSocket, gRPC, Redis, PostgreSQL
+- JavaScript, React.js, Node.js, TypeScript
+- WebSocket, gRPC, Redis, PostgreSQL, RESTful API, API Design and Integration
 - Docker, Kubernetes, Cloudflare Workers
 
 🌱 I’m passionate about:
 - Building meaningful, scalable products from scratch
 - Improving backend performance and real-time systems
-- Designing sleek, accessible UIs with React & Next.js
-
-👨‍💻 You can explore my portfolio and projects below ⬇
+- Designing sleek, accessible and crazy UIs with React & Next.js
 
 ---
 
@@ -25,7 +23,7 @@ Recently I was working as a **Software Engineer at Sókn Engineering**, building
 
 | Frontend     | Backend        | Database       | DevOps & Cloud     | Misc Tools         |
 |--------------|----------------|----------------|--------------------|--------------------|
-| React, Next.js, Angular | Node.js, Express, Flask | PostgreSQL, MongoDB, Redis | Docker, Kubernetes, GCP, Cloudflare | gRPC, WebSocket, REST APIs, Git, Jira |
+| React, Next.js, Angular, Vue | Node.js, Express, Flask, SpringBoot | PostgreSQL, MongoDB, Redis, MySQL | Docker, Kubernetes, GCP, Cloudflare | gRPC, WebSocket, REST APIs, Git, Jira |
 
 ---
 
