@@ -46,7 +46,5 @@ Recently I was working as a **Software Engineer at Sókn Engineering**, building
 - 🌐 [Portfolio Website](#)
 - 📩 hegde.ab@northeastern.edu
 
----
-
 ### ⚡Let’s build something great together!!
 
